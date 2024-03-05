@@ -18,6 +18,6 @@
   ],
   "depends": {
     "fabricloader": ">=0.14",
-    "embeddium": ">=0.2.10-git.186f84e+mc1.20.1"
+    "embeddium": ">=0.3.7+mc1.20.1"
   }
 }
